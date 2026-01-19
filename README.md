@@ -5,11 +5,11 @@
 [![License](https://img.shields.io/github/license/pericenah-web/VRGASTELO-Termux-Script?style=for-the-badge&color=green)](https://github.com/pericenah-web/VRGASTELO-Termux-Script/blob/main/LICENSE)
 
 
-Script Termux resmi untuk mengelola file, galeri foto, dan memperkuat branding layanan **VRGASTELO** (spesialis pelatihan trading forex & investasi). Cocok digunakan sebagai template siap pakai untuk bisnis, komunitas, atau kebutuhan pribadi!
+Script Termux resmi untuk mengelola file, galeri foto, dan memperkuat branding layanan **VRGASTELO** . Cocok digunakan sebagai template siap pakai untuk bisnis, komunitas, atau kebutuhan pribadi!
 
 
 ## ✨ FITUR UTAMA
-- 🎨 Animasi loading 3D nama "VRGASTELO" dengan tampilan warna menarik
+- 🎨 colours black and red "VRGASTELO" dengan tampilan warna menarik
 - 📂 Manajemen file otomatis (membuat folder khusus, mengatur galeri foto)
 - 🔖 Penggantian nama file secara massal dengan format konsisten
 - 📞 Template informasi kontak yang bisa dikustomisasi (WhatsApp, website, sosial media)
@@ -28,7 +28,8 @@ Script Termux resmi untuk mengelola file, galeri foto, dan memperkuat branding l
 Pastikan kamu sudah menginstal Termux dan mengaktifkan izin penyimpanan:
 ```bash
 # Update paket Termux
-pkg update && pkg upgrade -y
+pkg update
+pkg upgrade -y
 
 # Aktifkan izin penyimpanan
 termux-setup-storage
@@ -52,7 +53,7 @@ Edit script untuk mengganti nomor WhatsApp, website, atau nama brand:
 
 - Simpan dengan Ctrl+O → tekan Enter → keluar dengan Ctrl+X
  
-❓ FAQ (PERTANYAAN UMUM)
+ (PERTANYAAN UMUM)
  
 Q: Kenapa muncul pesan "Permission denied"?
 A: Jalankan perintah  chmod +x VRGASTELO_BULANGAN_Tools.sh  untuk memberikan izin eksekusi.
@@ -75,11 +76,12 @@ Kami sangat menyambut kontribusi dari siapapun! Ikuti langkah berikut:
 
 5. Ajukan Pull Request ke repository utama
  
-📞 KONTAK ADMIN RESMI VRGASTELO
+📞 KONTAK TEAM ADMIN VHBSQUAD 
  
 - WhatsApp: +60177657857
 
-- Website: indodaxvrgastelo.com, trivvrgastelo.com
+- Website: http:indodaxvrgastelo.com, 
+https.trivvrgastelo.com
 
 - TikTok: @VRGASTELO
 
